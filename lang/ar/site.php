@@ -1,0 +1,102 @@
+<?php
+
+return [
+    'dashboard' => 'الرئيسيه',
+    'logout' => 'تسجيل الخروج',
+
+    'add' => 'اضف',
+    'create' => 'اضافه',
+    'read' => 'عرض',
+    'edit' => 'تعديل',
+    'update' => 'تعديل',
+    'delete' => 'حذف',
+    'search' => 'بحث',
+    'show' => 'عرض',
+    'loading' => '..جاري التحميل',
+    'print' => 'طبع',
+    'close' => 'اغلاق',
+    'delete_body_user' => 'هل انت متأكد من حذف المشرف ؟',
+    'delete_body_category' => 'هل انت متأكد من حذف القسم ؟',
+    'delete_body_client' => 'هل انت متأكد من حذف العميل ؟',
+    'delete_body_order' => 'هل انت متأكد من الغاء الطلب للعميل ؟',
+    'confirm_delete' => 'تاكيد الحذف',
+    'yes' => 'نعم',
+    'no' => 'لا',
+    'details' => 'تفاصيل',
+    'delivery_time' => 'وقت التوصيل',
+    'order_time' => 'تاريخ الطلب',
+    'product_name' => 'اسم المنتج',
+    'order_canceled' => 'ملغي',
+
+    'login' => 'تسجيل الدخول',
+    'remember_me' => 'تذكرني',
+    'password' => 'كلمه المرور',
+    'password_confirmation' => 'تاكيد كلمه المرور',
+
+    'added_successfully' => 'تم اضافه البيانات بنجاح',
+    'updated_successfully' => 'تم تعديل البيانات بنجاح',
+    'deleted_successfully' => 'تم حذف البيانات بنجاح',
+
+    'no_data_found' => 'للاسف لا يوجد اي سجلات',
+    'no_records' => 'للاسف لا يوجد اي سجلات',
+
+    'clients' => 'العملاء',
+    'client_name' => 'اسم العميل',
+    'phone' => 'التليفون',
+    'address' => 'العنوان',
+    'previous_orders' => 'الطلبات السابقه',
+    'orders' => 'الطلبات',
+    'add_order' => 'اضف طلب',
+    'edit_order' => 'تعديل طلب',
+    'gender' => 'النوع',
+
+    'users' => 'المشرفين',
+    'first_name' => 'الاسم الاول',
+    'last_name' => 'الاسم الاخير',
+    'email' => 'البريد الاكتروني',
+    'image' => 'صوره',
+    'action' => 'اكشن',
+    'status' => 'الحالة',
+    'show_orders' => 'عرض المنتجات',
+    'order_number' => 'رقم الطلب',
+
+
+    'permissions' => 'الصلاحيات',
+
+    'categories' => 'الاقسام',
+    'all_categories' => 'كل الاقسام',
+    'name' => 'الاسم',
+    'category_name' => 'اسم القسم',
+    'description' => 'الوصف',
+    'products_count' => 'عدد الامنتجات',
+    'related_products' => 'المنتجات المرتبطه',
+    'category' => 'القسم',
+    'show_products' => 'عرض المنتجات',
+    'created_at' => 'تم اضافته',
+    'discount' => 'التخفيض',
+    'uncompleted' => 'جاري التحضير',
+    'finished' => 'تم التحضير',
+    'sales_graph' => 'الاحصائيات',
+    'canceled' => 'الغاء',
+
+    'products' => 'المنتجات',
+    'product' => 'المنتج',
+    'quantity' => 'الكميه',
+    'total' => 'المجموع',
+    'purchase_price' => 'سعر الشراء',
+    'price' => 'السعر',
+    'sale_price' => 'سعر البيع',
+    'stock' => 'المخزن',
+    'profit_percent' => 'المكسب',
+
+    'ar' => [
+        'name' => 'الاسم بالغه العربيه',
+        'description' => 'الوصف بالغه العربيه',
+    ],
+
+    'en' => [
+        'name' => 'الاسم بالغه الانجليزيه',
+        'description' => 'الوصف بالغه الانجليزيه',
+    ],
+
+];
